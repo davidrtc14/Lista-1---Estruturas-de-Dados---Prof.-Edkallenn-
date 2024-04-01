@@ -1,5 +1,5 @@
 /*
-**    Função :
+**    Função : Exibir tabela das potências fatoriais e seus tipos.
 **    Autor : David Ramalho Teixeira de Carvalho
 **    Data  : 30/03/2024
 **    Observações:

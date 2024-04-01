@@ -1,5 +1,5 @@
 /*
-**    Função :
+**    Função : Verificar e exibir números automórficos
 **    Autor : David Ramalho Teixeira de Carvalho
 **    Data  : 31/03/2024
 **    Observações:
